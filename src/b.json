@@ -119,7 +119,7 @@
     },
     {
       "id": "71ad89ea-f11f-4825-af9c-408fba7dfd8e",
-      "answer": "BLUMFORCE"
+      "answer": "Blumforce"
     },
     {
       "id": "a669a160-45fd-4935-9eda-58079e19aad5",
@@ -127,23 +127,31 @@
     },
     {
       "id": "7491c933-e49d-4a60-89cd-53d9fe690dca",
-      "answer": "BLUMSTORM"
+      "answer": "Blumstorm"
     },
     {
       "id": "900bc6e5-d73e-49fe-adf5-1f8111f1b431",
-      "answer": "BLUMEXTRA"
+      "answer": "Blumextra"
     },
     {
       "id": "6fb7499f-8b38-4132-8255-c3184cc2712c",
-      "keyword": "PUMPIT"
+      "answer": "PUMPIT"
     },
     {
       "id": "98d390d1-95da-475f-8df9-53a335842c3a",
-      "keyword": "BLUMHELPS"
+      "answer": "Blumhelps"
     },
     {
       "id": "92bc4338-85ca-4bf9-a0a5-320e677116fd",
-      "keyword": "FOMOOO"
+      "answer": "FOMOOO"
+    },
+    {
+      "id": "bb84e765-31aa-4f0d-8430-b3f75d88c1aa",
+      "answer": "CRYPTOZONE"
+    },
+    {
+      "id": "7a3502e2-cdc7-4842-8879-bbeb2ebec594",
+      "answer": "Blumify"
     }
   ],
 

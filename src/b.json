@@ -152,9 +152,21 @@
     {
       "id": "7a3502e2-cdc7-4842-8879-bbeb2ebec594",
       "answer": "Blumify"
+    },
+    {
+      "id": "4477c434-f8df-4432-a3d7-b47a6e44c1d7",
+      "keyword": "DEXXX"
+    },
+    {
+      "id": "d275de44-df86-45f7-92e0-fb28e3a01830",
+      "keyword": "Cryptobuzz"
+    },
+    {
+      "id": "a11ba4c2-6be5-4dd8-a371-b2ed82632e6a",
+      "keyword": "CRYPTOGAS"
     }
   ],
 
   "ver": "v0.1.7",
-  "noti": "Với tình hình nhiều bên spam request lên server để lấy payload chơi game dẫn đến các server sẽ sớm quá tải vào đêm nay (18/10) vậy nên khuyên mọi người không nên chạy chơi game bắt đầu từ khuya đêm nay để tránh lỗi mất vé\nSắp tới bắt buộc phải có API KEY để có thể request lên server lấy payload chơi game để tránh các trại và các bên khác spam. Mọi người chơi ít thì yên tâm là sẽ vẫn cấp API KEY free cho mọi người, còn chơi lớn thì nạp xèng vào mà mua nhé, bú free thế đủ rồi."
+  "noti": "Logan"
 }
